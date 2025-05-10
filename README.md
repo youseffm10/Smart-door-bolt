@@ -5,44 +5,40 @@ A Java-based smart electronic door bolt system integrated with an Arduino board 
 ---
 
 ## 📌 Features
-- Graphical user interface (GUI) for opening/closing the door bolt
-- Real-time control via USB serial communication
-- Arduino-controlled physical lock mechanism
-- Built using Java (Swing) and Arduino Uno
+- GUI interface built in Java for opening/closing the door bolt
+- Real-time USB serial communication with Arduino Uno
+- Arduino-controlled physical locking mechanism
+- Built using Java (Swing) and Arduino IDE
 
 ---
 
 ## 🛠️ Technologies Used
-- Java
+- Java (Swing/AWT)
 - Arduino Uno
-- Serial Communication
+- Serial Communication (USB)
 - Servo Motor
-- USB interface
+- Push Button
+
+---
+
+## 🗂️ File Structure
+
 
 ---
 
 ## 📄 Project Report
-You can find a detailed overview of the project design, implementation, and outcomes in the report below:
+📎 [Project report PDF.pdf](./Project%20report%20PDF.pdf)
 
-📎 [Project report PDF](./Project%20report%20PDF.pdf)
-
----
-
-## 🔽 Download the Full Code
-The complete project (Java + Arduino) is available as a ZIP file:
-
-📦 [Smart-door-bolt.zip](./Smart-door-bolt.zip)
-
-> Simply download and extract the ZIP file to explore the full source code and run the application.
+This document includes implementation details, system design, and outcomes.
 
 ---
 
 ## 👨‍💻 What I Learned
-- How to bridge software and hardware in a real-world use case
-- Communicating technical concepts to non-technical users
-- Serial communication and physical device control using Java and Arduino
+- Bridging software with physical hardware in real-time
+- Writing GUI-based Java applications that communicate with devices
+- Explaining complex engineering concepts to a non-technical audience
 
 ---
 
 ## 📬 Contact
-Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/yousefelaour) for questions, collaborations, or feedback.
+Feel free to connect with me on [LinkedIn]([https://www.linkedin.com/in/yousefelaour](https://www.linkedin.com/in/yousef-elaour-603663232/)) for questions or collaboration opportunities.
