@@ -39,6 +39,3 @@ This document includes implementation details, system design, and outcomes.
 - Explaining complex engineering concepts to a non-technical audience
 
 ---
-
-## 📬 Contact
-Feel free to connect with me on [LinkedIn]([https://www.linkedin.com/in/yousefelaour](https://www.linkedin.com/in/yousef-elaour-603663232/)) for questions or collaboration opportunities.
